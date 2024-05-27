@@ -10,7 +10,7 @@
   - [X] Savoir itérer dans un objet
   - [X] Savoir copier un objet (cloner)
 - [X] Comprendre les références d’objet et leur copie (https://fr.javascript.info/object-copy) 
-  --> faire des exercices pour s'entrainer
+
 
 * [X] Comprendre le système de `Garbage Collection` (https://fr.javascript.info/garbage-collection)
   - [X] Comprendre son utilité, les conditions de son déclenchement, sa manipulation
@@ -18,5 +18,5 @@
 --> revoir la leçon
 
 * [X] Comprendre le fonctionnement des tableaux en JavaScript
-  --> refaire les exercices
-* [ ] Découvrir les méthodes de tableaux
+* [X] Découvrir les méthodes de tableaux
+--> faire les exercices
