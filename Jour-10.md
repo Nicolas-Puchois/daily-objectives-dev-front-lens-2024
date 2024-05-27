@@ -4,17 +4,17 @@
 
 ### DOM :
 
-- Comprendre le DOM (https://javascript.info/browser-environment)
-  - Comprendre la façon dont il est construit.
-  - Comprendre sa structure.
-  - Comprendre l'auto-correction du DOM.
-- Savoir naviguer dans le DOM :
-  - documentElement
-  - childNodes
-  - firstChild
-  - lastChild
-  - siblings
-- Savoir récupérer des éléments du DOM :
-  - querySelector
-  - getElement..
-  - Comprendre le principe de 'Live-Collection'.
+- [X] Comprendre le DOM (https://javascript.info/browser-environment)
+  - [X] Comprendre la façon dont il est construit.
+  - [X] Comprendre sa structure.
+  - [X] Comprendre l'auto-correction du DOM.
+- [X] Savoir naviguer dans le DOM :
+  - [X] documentElement
+  - [X] childNodes
+  - [X] firstChild
+  - [X] lastChild
+  - [X] siblings
+- [X] Savoir récupérer des éléments du DOM :
+  - [X] querySelector
+  - [X] getElement..
+  - [X] Comprendre le principe de 'Live-Collection'.
