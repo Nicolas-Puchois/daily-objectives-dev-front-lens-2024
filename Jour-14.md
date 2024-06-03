@@ -4,5 +4,5 @@
 
 ### DOM :
 
-- [ ] Brief manipulation du DOM.
+- [X] Brief manipulation du DOM.
 - Rattrapage des dailys de la semaine.
