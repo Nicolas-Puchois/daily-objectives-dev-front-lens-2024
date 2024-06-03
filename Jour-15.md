@@ -18,10 +18,10 @@
     - [X] Quelle différence avec les fonctions ?<!--Oui, methodes dans un objet alors que fonction hors d'un objet >
     - [X] Utilité ?<!-- permet d'ajouter des comportements à l'objet (modification d'attribut, ajout de propriétés...)>
     - [X] Getters / Setters.<!-- attribut qui permet de récupérer(Get) la valeur | attribut qui permet de donner(Set) une valeur>
-- [ ] Comprendre ce qu'est un objet.
+- [X] Comprendre ce qu'est un objet.<!-- ensemble de propriété et de methode>
 - [ ] Comprendre le principe d'encapsulation :
-  - [ ] Qu'est ce que l'encapsulation ?
-  - [ ] À quoi sert l'encapsulation ?
-  - [ ] Quels sont les différents mot-clés réservés pour l'encapsulation ? 
-  - [ ] Comprendre le principe de "scope" (portée en français)
-  - [ ] Pourquoi c'est un principe fondamental de la POO.
+  - [X] Qu'est ce que l'encapsulation ? <!-- regroupement des données permettant la lecture et la manipulation toute en controlant l'accès.>
+  - [X] À quoi sert l'encapsulation <!--sécuriser les données et rendre facile pour l'utilisateur>
+  - [X] Quels sont les différents mot-clés réservés pour l'encapsulation ? <!-- public, private(#), protected(_)>
+  - [X] Comprendre le principe de "scope" (portée en français)
+  - [X] Pourquoi c'est un principe fondamental de la POO.
