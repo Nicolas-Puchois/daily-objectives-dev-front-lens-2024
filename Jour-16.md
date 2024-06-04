@@ -9,9 +9,9 @@
   - [X] Comment écrit-on de l'héritage ?<!-- extend pour la classe et super dans le construteur de l'enfant>
   - [X] Dans quel cas utilise t-on l'héritage ?<!-- quand >
   - [X] Comprendre les relations parents -> enfants et enfants -> parents.<!-- les parents  donne leur attribut aux enfants alors que les enfants récupére les attribut du parents>
-- [ ] Comprendre ce qu'est une interface ?
-  - [ ] Comprendre l'interet des interfaces.
-  - [ ] Quelle différence avec une classe abstraite ?
+- [X] Comprendre ce qu'est une interface ?
+  - [X] Comprendre l'interet des interfaces.<!-- séparer les méthodes à l'intérieur d'une classe entre les 'internes', qui ne sont accessible que dans la classe et les 'externes' qui sont aussi accessible hors de le classe.>
+  - [X] Quelle différence avec une classe abstraite ?<!-- une classe abstraite ne peut être instancié comparait à l'interface.>
 - [ ] Comprendre le principe de relations entre les objets (UML) :
   - [ ] Qu'est ce que l'association ?
   - [ ] Qu'est ce que l'aggrégation ?
