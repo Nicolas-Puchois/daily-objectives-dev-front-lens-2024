@@ -4,11 +4,11 @@
 
 ### POO (Programmation Orientée Objet) :
 
-- [ ] Comprendre ce qu'est l'héritage :
-  - [ ] À quoi sert l'héritage ?
-  - [ ] Comment écrit-on de l'héritage ?
-  - [ ] Dans quel cas utilise t-on l'héritage ?
-  - [ ] Comprendre les relations parents -> enfants et enfants -> parents.
+- [X] Comprendre ce qu'est l'héritage :
+  - [X] À quoi sert l'héritage ?<!-- récupérer des attributs d'une classe parents dans une classe enfants>
+  - [X] Comment écrit-on de l'héritage ?<!-- extend pour la classe et super dans le construteur de l'enfant>
+  - [X] Dans quel cas utilise t-on l'héritage ?<!-- quand >
+  - [X] Comprendre les relations parents -> enfants et enfants -> parents.<!-- les parents  donne leur attribut aux enfants alors que les enfants récupére les attribut du parents>
 - [ ] Comprendre ce qu'est une interface ?
   - [ ] Comprendre l'interet des interfaces.
   - [ ] Quelle différence avec une classe abstraite ?
