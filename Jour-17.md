@@ -19,7 +19,7 @@
 - [X] Quelle est la différence entre un linter et un formater
 - [X] Quels sont les principaux outils les plus répandus ?<!-- linter : ESLint | formater : Prettier>
 - [X] Est-il préférable de l'installer en global sur la machine ou indépendémment sur chaque projet ?
-<!--Il faut mieux l'installer en global car cela représente une base pour tout projet-->
+<!--Il faut mieux l'installer en local pour que chaque personne de l'équipe soit sur les même règles-->
 - [X] Qu'est ce que "Nodemon" :
   - [X] À quoi ça sert ?<!-- redémarre l'application Node quand des changement ddans un fichier est détecté>
 - [X] Créer son premier "Hello World!" avec Node.
