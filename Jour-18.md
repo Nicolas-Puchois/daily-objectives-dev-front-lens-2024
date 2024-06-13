@@ -17,7 +17,7 @@
   - [X] Savoir appliquer du style aux composants.
   - [X] Savoir bind des propriétés aux composants.
   - [X] Savoir déclencher des événements depuis les composants.
-  - [] Comprendre et savoir utiliser la fonction `output`.
-  - [] Comprendre `ng-content`.
-  - [] Comprendre le cycle de vie des composants et les événements liés.
-  - [] Savoir faire de l'héritage avec les composants.
+  - [X] Comprendre et savoir utiliser la fonction `output`.
+  - [X] Comprendre `ng-content`.
+  - [X] Comprendre le cycle de vie des composants et les événements liés.
+  - [X] Savoir faire de l'héritage avec les composants.
