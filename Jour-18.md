@@ -11,7 +11,7 @@
 - [X] Comprendre ce qu'est Angular CLI :
   - [X] Installer Angular CLI sur votre machine.
 - [X] Comprendre ce qu'est un composant ([ici](https://angular.dev/guide/components)).
-- [] Savoir manipuler les composants :
+- [X] Savoir manipuler les composants :
   - [X] Savoir importer / réutiliser des composants.
   - [X] Savoir utiliser les sélecteurs CSS avec Angular.
   - [X] Savoir appliquer du style aux composants.
